@@ -7,8 +7,8 @@ Module 3 Beroeps Opdracht - Pacman game
 
 Ik wist meteen dat ik een pixel-artstyle wou gebruiken, en ben voor een 64x64 textuur gegaan omdat ik wel wat detail wou, maar niet te veel. Ik besloot ook om het contrast van de originele Pacman te houden; donkere achtergronden en felle kleuren voor de player en enemies.
 
-![Levelschets 1](./conceptwork/Levelschets1.png "Mijn eerste levelschets")
-![Levelschets 2](./conceptwork/Levelschets2.png "Mijn tweede levelschets")
-![Levelschets 3](./conceptwork/Levelschets3.png "Mijn derde levelschets")
+![Levelschets 1](./Levelschetsen/Levelschets1.png "Mijn eerste levelschets")
+![Levelschets 2](./Levelschetsen/Levelschets2.png "Mijn tweede levelschets")
+![Levelschets 3](./Levelschetsen/Levelschets3.png "Mijn derde levelschets")
 
 Deze opdracht was impercipe best makkelijk, al had ik een beetje moeite met alles netjes op een grid te houden.
