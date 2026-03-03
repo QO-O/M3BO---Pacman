@@ -16,5 +16,4 @@ Ik wist meteen dat ik een pixel-artstyle wou gebruiken, en ben voor een 64x64 te
 3. Hoe communiceer ik wat gevaarlijk is?
 [Schrijf hier je antwoord.]
 
-![Levelschets 1](./Levelschetsen/Levelschets1.png "Mijn eerste levelschets")
 Deze opdracht was impercipe best makkelijk, al had ik een beetje moeite met alles netjes op een grid te houden.
