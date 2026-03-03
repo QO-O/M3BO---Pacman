@@ -2,6 +2,10 @@
 
 Module 3 Beroeps Opdracht - Pacman game
 
+3.2 :
+
+![Flowchart of the Enemy](/conceptwork/Flowchart%20Enemy.png)
+
 2.2 :
     Ontwerp de eerste 30 seconden van jouw game als een tutorial zonder tekst.
 
